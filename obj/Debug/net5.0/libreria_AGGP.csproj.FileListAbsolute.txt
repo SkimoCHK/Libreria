@@ -1,0 +1,130 @@
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\appsettings.json
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.exe
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.deps.json
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.runtimeconfig.json
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.runtimeconfig.dev.json
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.pdb
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cd22\source\repos\libreria_AGGP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.csproj.AssemblyReference.cache
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.AssemblyInfoInputs.cache
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.AssemblyInfo.cs
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.csproj.CoreCompileInputs.cache
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\scopedcss\bundle\libreria_AGGP.styles.css
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\staticwebassets\libreria_AGGP.StaticWebAssets.Manifest.cache
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\staticwebassets\libreria_AGGP.StaticWebAssets.Pack.cache
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\staticwebassets\msbuild.libreria_AGGP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\staticwebassets\msbuild.build.libreria_AGGP.props
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.libreria_AGGP.props
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.libreria_AGGP.props
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.RazorTargetAssemblyInfo.cache
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.csproj.CopyComplete
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.dll
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\refint\libreria_AGGP.dll
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.pdb
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.genruntimeconfig.cache
+C:\Users\cd22\source\repos\libreria_AGGP\obj\Debug\net5.0\ref\libreria_AGGP.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\appsettings.json
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.exe
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.deps.json
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.runtimeconfig.json
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.runtimeconfig.dev.json
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\libreria_AGGP.pdb
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.csproj.AssemblyReference.cache
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.AssemblyInfoInputs.cache
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.AssemblyInfo.cs
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.csproj.CoreCompileInputs.cache
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\scopedcss\bundle\libreria_AGGP.styles.css
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\staticwebassets\libreria_AGGP.StaticWebAssets.Manifest.cache
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\staticwebassets\libreria_AGGP.StaticWebAssets.Pack.cache
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\staticwebassets\msbuild.libreria_AGGP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\staticwebassets\msbuild.build.libreria_AGGP.props
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.libreria_AGGP.props
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.libreria_AGGP.props
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.RazorTargetAssemblyInfo.cache
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.csproj.CopyComplete
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\refint\libreria_AGGP.dll
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.pdb
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\libreria_AGGP.genruntimeconfig.cache
+C:\Users\HP 800 G2\Desktop\libreria_AGGP\obj\Debug\net5.0\ref\libreria_AGGP.dll
