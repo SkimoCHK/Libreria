@@ -1,7 +1,9 @@
 ﻿using libreria_AGGP.Data.Services;
 using libreria_AGGP.Data.ViewModels;
+using libreria_AGGP.Exceptions;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace libreria_AGGP.Controllers
 {
@@ -19,15 +21,35 @@ namespace libreria_AGGP.Controllers
         [HttpPost("add-author")]
         public IActionResult AddAuthor([FromBody] AuthorVM author)
         {
-            _authorsService.AddAuthor(author);
-            return Ok();
+            try
+            {
+                _authorsService.AddAuthor(author);
+                return Ok();
+            }
+            catch (PublisherNameException ex)
+            {
+                return BadRequest($"{ex.Message}, Nombre de la editora: {ex.PublisherName}");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
         }
 
         [HttpGet("get-author-with-books-by-id/{id}")]
         public IActionResult GetAuthorWithBooks(int id)
         {
-            var response = _authorsService.GetAuthorWithBooksVM(id);
-            return Ok(response);
+            try
+            {
+                var response = _authorsService.GetAuthorWithBooksVM(id);
+                return Ok(response);
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            
         }
     }
 }

@@ -102,6 +102,10 @@ namespace libreria_AGGP.Data.Services
                 _context.Books.Remove( _book );
                 _context.SaveChanges();
             }
+            else
+            {
+                throw new Exception($"El libro con el id {bookid} no existe!");
+            }
 
         }
     }

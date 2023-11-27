@@ -2,6 +2,7 @@
 using libreria_AGGP.Data.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace libreria_AGGP.Controllers
 {
@@ -20,38 +21,75 @@ namespace libreria_AGGP.Controllers
         [HttpGet("get-all-books")]
         public IActionResult GetAllBooks()
         {
-            var allbooks = _bookService.GetAllBks();
-            return Ok(allbooks);
+            try
+            {
+                var allbooks = _bookService.GetAllBks();
+                return Ok(allbooks);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpGet("get-book-by-id/{id}")]
         public IActionResult GetBookByID(int id)
         {
-            var book = _bookService.GetBookById(id);
-            return Ok(book);
+            try
+            {
+                var book = _bookService.GetBookById(id);
+                return Ok(book);
+            }
+            catch
+            {
+                return BadRequest();
+            }
+            
         }
 
         [HttpPost("add-book-with-authors")]
         public IActionResult AddBook([FromBody]BookVM book)
         {
-            _bookService.AddBookWithAuthors(book);
-            return Ok();
+            try
+            {
+                _bookService.AddBookWithAuthors(book);
+                return Ok();
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            
         }
         [HttpPut("update-book-by-id/{id}")]
 
         public IActionResult UpdateBookById(int id, [FromBody]BookVM book)
         {
-
-            var updateBook = _bookService.UpdateBookById(id, book);
-            return Ok(updateBook);
+            try
+            {
+                var updateBook = _bookService.UpdateBookById(id, book);
+                return Ok(updateBook);
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
 
         }
 
         [HttpDelete("delete-book-by-id/{id}")]
         public IActionResult DeleteBookById(int id)
         {
-             _bookService.DeleteBookById(id);
-             return Ok();
+            try
+            {
+                _bookService.DeleteBookById(id);
+                return Ok();
+            }
+            catch (System.Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
         }
 
     }

@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Linq;
 using libreria_AGGP.Data.Models;
+using System.Text.RegularExpressions;
 using libreria_AGGP.Data.ViewModels;
+using libreria_AGGP.Exceptions;
 namespace libreria_AGGP.Data.Services
 {  
     public class PublisherService
@@ -17,6 +19,8 @@ namespace libreria_AGGP.Data.Services
 
         public Publisher AddPublisher(PublisherVM publisher)
         {
+            if (StringStartsWithNumber(publisher.Name)) throw new PublisherNameException("El nombre empieza con un número",
+                publisher.Name);
             var _publisher = new Publisher()
             {
                 Name = publisher.Name
@@ -54,6 +58,22 @@ namespace libreria_AGGP.Data.Services
                 _context.Publishers.Remove(_publisher);
                 _context.SaveChanges(); 
             }
+            else
+            {
+                throw new Exception($"La editora con ese id {id} no existe!");
+            }
         }
+        //--AMBAS FORMAS SON LA MISMA COSA XD POR FIN LO ENTIENDO XDX
+        //private bool StringStartsWithNumber(string name)
+        //{
+        //    if (Regex.IsMatch(name, @"^\d")) return true; 
+        //    return false;
+        //}
+        
+        private bool StringStartsWithNumber(string name) => Regex.IsMatch(name, @"^\d");
+        //Esto es lo mismo q lo de arriba!!
+             
+        
+
     }
 }
